@@ -9,9 +9,9 @@
         ""
       ],
       "stopAtEntry": false,
-      "cwd": "c:/Users/emman/Desktop/C_projects/Library-management-system",
+      "cwd": "c:/Users/emman/Desktop/work",
       "environment": [],
-      "program": "c:/Users/emman/Desktop/C_projects/Library-management-system/build/Debug/outDebug",
+      "program": "c:/Users/emman/Desktop/work/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
